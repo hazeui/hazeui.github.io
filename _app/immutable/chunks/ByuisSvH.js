@@ -11,6 +11,4 @@ const o=`<div class="flex flex-gap3 flex-wrap items-center brd p5 rounded [&>lab
   <input type="radio" id="option4" name="group" class="radiob" />
   <label for="option4">Fedora</label>
 </div>
-
-<br/>
 `;export{o as default};
