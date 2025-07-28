@@ -1,0 +1,1 @@
+import"./DsnmJJEf.js";import"./DWJ3P0HD.js";import{f as o,G as r,n as i,H as p,a as l}from"./IaLDoqAF.js";var d=o('<div class="flex flex-gap3 flex-wrap items-center brd p5 rounded"><input type="checkbox" id="option" class="checkbox-fg"/> <label for="option">Option</label></div>');function c(t){var e=d(),a=r(e);a.defaultChecked=!0,i(2),p(e),l(t,e)}export{c as default};
