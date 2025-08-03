@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/69_IOA4Y.js";import{f as a,b as p,n as r}from"../chunks/CspA-ZqG.js";var m=a("<h1>Install</h1> <p>WIP</p>",1);function s(o){var t=m();r(2),p(o,t)}export{s as component};
